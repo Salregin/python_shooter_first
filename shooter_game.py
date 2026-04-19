@@ -1,3 +1,4 @@
+#Проэкт щутер 0.1
 from pygame import *
 import random
 from time import time as timer
